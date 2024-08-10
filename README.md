@@ -38,4 +38,4 @@ How It Works:
 - Checks ISS Position: The script uses the ISS API to get the current position of the ISS and checks if it is within 5 degrees of your location.
 - Checks Day/Night Status: The script uses the Sunset API to determine if it is currently nighttime at your location.
 - Send Notification: If the ISS is overhead and it's nighttime, an email is sent to notify you.
-- 
+
