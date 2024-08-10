@@ -20,8 +20,11 @@ Pre-requisites:
 Environment Variables - Set the following environment variables in your system:
 
 MY_LAT: Your latitude (e.g., 52.5200 for Berlin)
+
 MY_LNG: Your longitude (e.g., 13.4050 for Berlin)
+
 my_email: Your email address (e.g., example@gmail.com)
+
 my_password: Your email password or app-specific password
 
 Installation & Usage:
