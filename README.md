@@ -17,7 +17,7 @@ Pre-requisites:
 - requests library
 - smtplib for sending emails
 
-Environment Variables = Set the following environment variables in your system:
+Environment Variables - Set the following environment variables in your system:
 
 MY_LAT: Your latitude (e.g., 52.5200 for Berlin)
 MY_LNG: Your longitude (e.g., 13.4050 for Berlin)
