@@ -4,6 +4,10 @@
 
 This Python script checks if the International Space Station (ISS) is overhead and sends an email notification if it's nighttime at your location. It uses two APIs to determine if the ISS is overhead and if it is nighttime:
 
+
+![image](https://github.com/user-attachments/assets/ee0df77a-e501-4e75-b9e3-43d4b682027b)
+
+
 1. **ISS API**: Provides the current coordinates (latitude and longitude) of the ISS.
 2. **Sunset API**: Provides the sunrise and sunset times for a given latitude and longitude.
 
